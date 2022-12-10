@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Commit
+          Commitdeneme
         </a>
       </header>
     </div>
