@@ -2,7 +2,7 @@ import tas from './img/tas.png'
 import makas from './img/makas.png'
 import kagit from './img/kagit.png'
 import { useEffect, useState } from 'react'
-import './app.css'
+import './App.css'
 
 
 
