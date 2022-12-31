@@ -97,10 +97,10 @@ const App = () => {
   }, [bilgisayar_secim, kullanici_secim])
 
   return (
-    <div className='deneme'>
-      <h1>User Item {kullanici_secim}</h1><h2> {kullanici_secim}</h2>
+   <div className='deneme'>
+      <h1>Kullanıcı Silahı </h1><h2> {kullanici_secim}</h2>
       <img src={kullanici_resim}></img>
-      <h1>Computer Item</h1> <h2> {bilgisayar_secim}</h2>
+      <h1>Bilgisayar Silahı</h1> <h2> {bilgisayar_secim}</h2>
       <img src={bilgisayar_resim }></img>
       <button key={1} onClick={() => handleClick("tas")}>
           Tas
