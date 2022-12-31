@@ -56,41 +56,41 @@ const App = () => {
       
       if(sonuc=='makaskagit')
       {
-        setsonuc('YOU WIN!')
+        setsonuc('KAZANDIN!')
       }
       else if(sonuc=='tasmakas')
       {
-        setsonuc('YOU WIN!')
+        setsonuc('KAZANDIN!')
       }
       else if(sonuc=='kagittas')
       {
-        setsonuc('YOU WIN!')
+        setsonuc('KAZANDIN!')
       }
       else if(sonuc=='kagitmakas')
       {
-        setsonuc('YOU LOSE!')
+        setsonuc('KAYBETTİN!')
       }
       else if(sonuc=='makastas')
       {
-        setsonuc('YOU LOSE!')
+        setsonuc('KAYBETTİN!')
       }
       else if(sonuc=='taskagit')
       {
-        setsonuc('YOU LOSE!')
+        setsonuc('KAYBETTİN!')
       }
       else if(sonuc=='tastas')
       {
-        setsonuc('ITS A DRAW!')
+        setsonuc('BERABERE!')
       }
 
       else if(sonuc=='kagitkagit')
       {
-        setsonuc('ITS A DRAW!')
+        setsonuc('BERABERE')
       }
 
       else if(sonuc=='makasmakas')
       {
-        setsonuc('ITS A DRAW!')
+        setsonuc('BERABERE!')
       }
 
     }
